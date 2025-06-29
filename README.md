@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently pursuing my **Master of Computer Applications** at GLS University (2023-2025)
+- 🎓 I completed my Bachelor of Computer Applications (BCA) and am currently pursuing my Master of Computer Applications (MCA) at GLS University (2023–2025).
 - 🧠 I recently completed **Advanced React** by Meta on Coursera
 - 👨‍💻 Passionate about building full-stack web applications using MERN
 - ⚡ In my free time, I contribute to open source, build personal projects, and explore new technologies
