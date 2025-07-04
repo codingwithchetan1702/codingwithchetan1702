@@ -23,10 +23,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I completed my Bachelor of Computer Applications (BCA) and am currently pursuing my Master of Computer Applications (MCA) at GLS University (2023–2025).
-- 🧠 I recently completed **Advanced React** by Meta on Coursera
-- 👨‍💻 Passionate about building full-stack web applications using MERN
-⚡ In my free time, I enjoy contributing to open source, building personal projects, exploring new technologies, and working on data annotation tasks.
+- 🎓 I completed my **Bachelor of Computer Applications (BCA)** and am currently pursuing **MCA at GLS University (2023–2025)**.
+- 🧠 Recently completed **Advanced React** by Meta on Coursera.
+- 👨‍💻 Passionate about building full-stack web applications using the **MERN stack**.
+- ⚡ In my free time, I contribute to **open source**, build **personal projects**, explore **new technologies**, and work on **data annotation** tasks.
 
 ---
 
@@ -54,18 +54,19 @@
 ### 💼 Projects
 
 - 🚀 **[Product Delivery Application](https://github.com/codingwithchetan1702/eStore)**  
-  A MERN stack based system for real-time tracking, order management, and delivery operations.
+  A MERN stack-based system for real-time tracking, order management, and delivery operations.
 
 - 📈 **[Stock Market Recommendation System](https://github.com/codingwithchetan1702/)**  
   Built with Django, MySQL, and Pandas for backend ML, and HTML/CSS/JS for frontend.
 
 - ⌨️ **[Typing Speed Game](https://github.com/codingwithchetan1702/Typing-Speed-Game)**  
-  Built with React and Tailwind CSS for real-time typing test experience.
+  Real-time typing speed test built with React and Tailwind CSS.
 
 ---
 
-📫 **Contact Me**  
-📞 +91 6351915013  
-📧 prajapatichetan237@gmail.com  
-📍 Ahmedabad, Gujarat  
-🔗 [LinkedIn](https://www.linkedin.com/in/prajapati-chetan/)
+### 📫 Contact Me
+
+- 📞 +91 6351915013  
+- 📧 prajapatichetan237@gmail.com  
+- 📍 Ahmedabad, Gujarat  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/prajapati-chetan/)
