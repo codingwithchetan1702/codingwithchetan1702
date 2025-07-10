@@ -51,31 +51,28 @@
 ---
 
 ### 💼 Projects
-
-<details>
-  <summary>🚀 Product Delivery Application (MERN)</summary>
-
+<details> <summary>🚀 Product Delivery Application (MERN)</summary>
 A real-time order tracking and management platform with user-friendly dashboards and inventory automation.
 
-🔗 Repo: [eStore](https://github.com/codingwithchetan1702/eStore)
-
+🔗 Repo: eStore
 Tech Used: React, Node.js, Express, MongoDB, JWT Auth, Redux
-</details>
 
-<details>
-  <summary>📈 Stock Market Recommendation System</summary>
-
+</details> <details> <summary>📈 Stock Market Recommendation System</summary>
 A Django-based platform that provides stock suggestions based on machine learning models and real-time stock data.
 
 Tech Used: Django, Pandas, MySQL, HTML/CSS/JS
-</details>
 
-<details>
-  <summary>⌨️ Typing Speed Game</summary>
-
+</details> <details> <summary>⌨️ Typing Speed Game</summary>
 A web-based typing test built with React and Tailwind CSS to track typing speed and accuracy.
 
-🔗 Repo: [Typing Speed Game](https://github.com/codingwithchetan1702/Typing-Speed-Game)
+🔗 Repo: Typing Speed Game
+
+</details> <details> <summary>💊 Medicine Recommendation System</summary>
+A recommendation engine that suggests generic and branded medicines based on symptoms and usage, using natural language processing and cosine similarity.
+
+🔗 Repo: Medicine Recommendation System
+Tech Used: Python, Pandas, Scikit-learn, TF-IDF, Streamlit
+
 </details>
 
 ---
