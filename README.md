@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h3 align='center'>👋 Hi, I’m Chetan Prajapati</h3><br/>
+  <h3 align='center'>👋 Hi,I’m Chetan Prajapati</h3><br/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/prajapati-chetan/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
