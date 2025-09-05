@@ -86,10 +86,10 @@ Tech Used: Python, Pandas, Scikit-learn, TF-IDF, Streamlit
 
 ---
 
-🎓 Master of Computer Applications (MCA) @ GLS University (2023–2025)
-✅ Completed Meta's Advanced React Certification
-🧠 Passionate about solving real-world problems through full-stack development and collaboration
-📚 Always learning, always building
+🎓 Master of Computer Applications (MCA) @ GLS University (2023–2025)  
+✅ Completed Meta's Advanced React Certification  
+🧠 Passionate about solving real-world problems through full-stack development and collaboration  
+📚 Always learning, always building  
 
 ---
 
