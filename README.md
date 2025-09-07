@@ -1,20 +1,24 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3 align='center'>👋 Hi,I’m Chetan Prajapati</h3><br/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/prajapati-chetan/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/codingwithchetan1702">
-      <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@yourchannelname">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-    <a href="https://leetcode.com/yourleetcodeusername/">
-      <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-    </a>
-  </div>
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/prajapati-chetan/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/codingwithchetan1702">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@yourchannelname">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://leetcode.com/yourleetcodeusername/">
+    <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://chetan-portfolio-1702.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio Badge"/>
+  </a>
+</div>
+
   <h3 align='center'>💻 MERN Stack Developer | Open Source Contributor | Data Annotation Specialist</h3><br/>
 </div>
 
